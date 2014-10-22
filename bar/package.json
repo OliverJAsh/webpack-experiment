@@ -1,4 +1,7 @@
 {
   "name": "bar",
-  "main": "src/main"
+  "main": "src/main",
+  "dependencies": {
+    "query-string": "^1.0.0"
+  }
 }
